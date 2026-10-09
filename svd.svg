@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- خلفية دائريّة باللون الأسود الأنيق -->
+  <circle cx="50" cy="50" r="48" fill="#111111"/>
+  
+  <!-- خط نبضات القلب والنشاط باللون البرتقالي -->
+  <path d="M20 52 H34 L40 32 L50 68 L58 42 L64 52 H80" 
+        stroke="#FF6B2C" 
+        stroke-width="6" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+        
+  <!-- النقطة البرتقالية المميزة الخاصة بالموقع فوق النبض -->
+  <circle cx="58" cy="24" r="5" fill="#FF6B2C"/>
+</svg>
