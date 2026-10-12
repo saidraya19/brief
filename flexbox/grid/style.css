@@ -1,0 +1,57 @@
+.container {   
+display: grid;
+width:600px;
+grid-template-columns: 1fr 1fr 1fr 1fr ;
+grid-template-rows: 1fr 1fr;
+gap: 10px;
+justify-items: center;
+align-items: center;
+}
+
+.container .Item1{
+    background-color: rgb(117, 242, 7);
+    padding: 10px;
+   width: 300px;
+}
+.container .Item2{
+    background-color: rgb(204, 17, 17);
+  
+    padding: 10px;
+       width: 300;
+}
+.container .Item3{
+     background-color: rgb(247, 243, 4);
+   
+     padding: 10px;
+         width: 300px;
+}
+.container .Item4{
+     background-color: rgb(80, 74, 188);
+     
+     padding: 10px;
+       width: 300px;
+}
+.container .Item5{
+     background-color: rgb(44, 114, 79);
+ 
+     padding: 10px;
+    width: 300px;
+}
+.container .Item6{
+     background-color: rgb(172, 88, 88);
+   
+     padding: 10px;
+      width: 300px;
+}
+.container .Item7{
+     background-color: rgb(218, 255, 159);
+
+     padding: 10px;
+  width: 300px;
+}
+.container .Item8{
+     background-color: rgb(44, 151, 172);
+
+     padding: 10px;
+width: 300px;
+}

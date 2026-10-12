@@ -1,0 +1,42 @@
+.container {
+display: flex;
+flex-direction: row;
+justify-content: start;
+align-items: center;
+flex-wrap: wrap-reverse;
+margin: -5px;
+height: 100vh;
+
+gap: 20px;
+
+}
+.container .Item1{
+    background-color: rgb(117, 242, 7);
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+    flex: 1;
+   
+
+}
+.container .Item2{
+    background-color: rgb(204, 17, 17);
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+     flex: 1
+}
+.container .Item3{
+     background-color: rgb(247, 243, 4);
+     width: 100px;
+     height: 20px;
+     padding: 10px;
+      flex: 1
+}
+.container .Item4{
+     background-color: rgb(80, 74, 188);
+     width: 100px;
+     height: 20px;
+     padding: 10px;
+      flex: 1
+}
